@@ -1,0 +1,42 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
+./tests/test_utils.py
+./tests/conftest.py
+./tests/test_auth_tokens.py
+./tests/test_sso.py
+./tests/test_http.py
+./tests/test_users.py
+./tests/data/test_sleep_data.py
+./tests/data/test_hrv_data.py
+./tests/stats/test_stress.py
+./tests/stats/test_sleep_stats.py
+./tests/stats/test_intensity_minutes.py
+./tests/stats/test_steps.py
+./tests/stats/test_hrv.py
+./.devcontainer/noop.txt
+./garth/auth_tokens.py
+./garth/version.py
+./garth/sso.py
+./garth/__init__.py
+./garth/exc.py
+./garth/utils.py
+./garth/http.py
+./garth/users/profile.py
+./garth/users/__init__.py
+./garth/users/settings.py
+./garth/data/_base.py
+./garth/data/__init__.py
+./garth/data/sleep.py
+./garth/data/hrv.py
+./garth/stats/steps.py
+./garth/stats/_base.py
+./garth/stats/__init__.py
+./garth/stats/stress.py
+./garth/stats/sleep.py
+./garth/stats/hrv.py
+./garth/stats/intensity_minutes.py
+./valid_targets.txt
