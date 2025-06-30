@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 from datetime import date, datetime, timedelta
 from typing import ClassVar, List, Optional, Union
 

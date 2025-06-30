@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date
 from typing import Optional, Union

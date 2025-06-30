@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import re
 import time
 from typing import Callable, Dict, Optional, Tuple

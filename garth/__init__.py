@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 from .data import HRVData, SleepData
 from .http import Client, client
 from .stats import (

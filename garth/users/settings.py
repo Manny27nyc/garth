@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 from datetime import date
 from typing import Dict, List, Optional
 

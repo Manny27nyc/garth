@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import time
 
 from garth.auth_tokens import OAuth2Token

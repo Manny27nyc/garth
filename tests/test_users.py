@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import pytest
 
 from garth import UserProfile, UserSettings
